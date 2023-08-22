@@ -25,14 +25,3 @@ This project used the Firebase cloud service.
   <img width="1100" alt="Screenshot 2020-01-24 at 11 19 15" src="https://user-images.githubusercontent.com/45558274/73054479-9b06f980-3e9b-11ea-8245-c10cb1d8f9bf.png" alt="demo"/>
 </p>
 
-## 👥 Authors
-
-👤 **Dmitry Danilin**
-
-- Github: [@dmitrydnl](https://github.com/dmitrydnl)
-- Telegram: [@dmitrydnl](https://t.me/dmitrydnl)
-
-👤 **Bogdan Marshtupa**
-
-- Github: [@marshtupa](https://github.com/marshtupa)
-- Instagram: [@marshtupabogdan](https://www.instagram.com/marshtupabogdan)
